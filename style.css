@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.image{
+    margin: 15px;
+    padding: 10px;
+    box-shadow: 5px 5px 9px #c7a191;
+    background: #e7cdc6;
+    radius: 5px;
+    width: 500px;
+}
+
+.images{
+    
+    padding-left: 25px;
+    padding-right: 10px;
+}
+
+}
+img{
+    max-width: 100%;
+    
+}
